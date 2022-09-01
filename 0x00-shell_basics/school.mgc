@@ -1,3 +1,8 @@
 #!/bin/bash
+<<<<<<< HEAD
 0 string SCHOOL School data
 !mime School
+=======
+0 string SCHOOL school data
+!:mime School
+>>>>>>> 59cbd457ae70e7ceb5d5138919e55f5f495f8548
